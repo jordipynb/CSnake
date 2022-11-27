@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/game.h
+structure.h
+/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/structure.h
+time.h
+-
+
+/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/main.c
+stdio.h
+-
+stdlib.h
+-
+structure.h
+/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/structure.h
+game.h
+/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/game.h
+
+/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/structure.h
+

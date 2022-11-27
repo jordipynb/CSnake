@@ -1,0 +1,3 @@
+/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/cmake-build-debug/CMakeFiles/Snake.dir

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Snake"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/media/jordan/Data/Escuela/2do\ Año/2do\ Semestre/Sistemas\ Operativos/Conferencias/Tema\ 1\ -\ Introducción\ al\ Lenguaje\ C/Snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/media/jordan/Data/Escuela/2do\ Año/2do\ Semestre/Sistemas\ Operativos/Conferencias/Tema\ 1\ -\ Introducción\ al\ Lenguaje\ C/Snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/media/jordan/Data/Escuela/2do\ Año/2do\ Semestre/Sistemas\ Operativos/Conferencias/Tema\ 1\ -\ Introducción\ al\ Lenguaje\ C/Snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/media/jordan/Data/Escuela/2do\ Año/2do\ Semestre/Sistemas\ Operativos/Conferencias/Tema\ 1\ -\ Introducción\ al\ Lenguaje\ C/Snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/media/jordan/Data/Escuela/2do\ Año/2do\ Semestre/Sistemas\ Operativos/Conferencias/Tema\ 1\ -\ Introducción\ al\ Lenguaje\ C/Snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/media/jordan/Data/Escuela/2do\ Año/2do\ Semestre/Sistemas\ Operativos/Conferencias/Tema\ 1\ -\ Introducción\ al\ Lenguaje\ C/Snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/media/jordan/Data/Escuela/2do\ Año/2do\ Semestre/Sistemas\ Operativos/Conferencias/Tema\ 1\ -\ Introducción\ al\ Lenguaje\ C/Snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/media/jordan/Data/Escuela/2do\ Año/2do\ Semestre/Sistemas\ Operativos/Conferencias/Tema\ 1\ -\ Introducción\ al\ Lenguaje\ C/Snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/media/jordan/Data/Escuela/2do\ Año/2do\ Semestre/Sistemas\ Operativos/Conferencias/Tema\ 1\ -\ Introducción\ al\ Lenguaje\ C/Snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/media/jordan/Data/Escuela/2do\ Año/2do\ Semestre/Sistemas\ Operativos/Conferencias/Tema\ 1\ -\ Introducción\ al\ Lenguaje\ C/Snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/media/jordan/Data/Escuela/2do\ Año/2do\ Semestre/Sistemas\ Operativos/Conferencias/Tema\ 1\ -\ Introducción\ al\ Lenguaje\ C/Snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/media/jordan/Data/Escuela/2do\ Año/2do\ Semestre/Sistemas\ Operativos/Conferencias/Tema\ 1\ -\ Introducción\ al\ Lenguaje\ C/Snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Snake">
+				<Option output="/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/cmake-build-debug/Snake" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/."/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/media/jordan/Data/Escuela/2do\ Año/2do\ Semestre/Sistemas\ Operativos/Conferencias/Tema\ 1\ -\ Introducción\ al\ Lenguaje\ C/Snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 Snake"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/media/jordan/Data/Escuela/2do\ Año/2do\ Semestre/Sistemas\ Operativos/Conferencias/Tema\ 1\ -\ Introducción\ al\ Lenguaje\ C/Snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/media/jordan/Data/Escuela/2do\ Año/2do\ Semestre/Sistemas\ Operativos/Conferencias/Tema\ 1\ -\ Introducción\ al\ Lenguaje\ C/Snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/media/jordan/Data/Escuela/2do\ Año/2do\ Semestre/Sistemas\ Operativos/Conferencias/Tema\ 1\ -\ Introducción\ al\ Lenguaje\ C/Snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Snake/fast">
+				<Option output="/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/cmake-build-debug/Snake" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/."/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/media/jordan/Data/Escuela/2do\ Año/2do\ Semestre/Sistemas\ Operativos/Conferencias/Tema\ 1\ -\ Introducción\ al\ Lenguaje\ C/Snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 Snake/fast"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/media/jordan/Data/Escuela/2do\ Año/2do\ Semestre/Sistemas\ Operativos/Conferencias/Tema\ 1\ -\ Introducción\ al\ Lenguaje\ C/Snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/media/jordan/Data/Escuela/2do\ Año/2do\ Semestre/Sistemas\ Operativos/Conferencias/Tema\ 1\ -\ Introducción\ al\ Lenguaje\ C/Snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/media/jordan/Data/Escuela/2do\ Año/2do\ Semestre/Sistemas\ Operativos/Conferencias/Tema\ 1\ -\ Introducción\ al\ Lenguaje\ C/Snake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/game.h">
+			<Option target="Snake"/>
+		</Unit>
+		<Unit filename="/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/main.c">
+			<Option target="Snake"/>
+		</Unit>
+		<Unit filename="/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/structure.h">
+			<Option target="Snake"/>
+		</Unit>
+		<Unit filename="/media/jordan/Data/Escuela/2do Año/2do Semestre/Sistemas Operativos/Conferencias/Tema 1 - Introducción al Lenguaje C/Snake/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
